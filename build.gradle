@@ -5,6 +5,10 @@ buildscript {
     }
     dependencies {
         classpath "com.android.tools.build:gradle:4.2.2"
+        implementation 'com.github.XomaDev:MIUI-autostart:v1.3'
+}
+
+
     }
 }
 
